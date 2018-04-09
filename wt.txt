@@ -1,3 +1,7 @@
+http://baijiahao.baidu.com/s?id=1574957535863211&wfr=spider&for=pc
+https://blog.csdn.net/xazzh/article/details/79564646
+
+
 https://www.jianshu.com/p/08d71a327796
 https://zhuanlan.zhihu.com/p/24055668
 
@@ -9,3 +13,9 @@ pip install --upgrade --ignore-installed tensorflow
 python -m pip install --upgrade pip
 
 conda create -n tensorflowpython=3.5
+
+import tensorflow as tf
+
+activate tensorflow
+
+deactivate tensorflow
